@@ -15,3 +15,15 @@ tmp
 model2.py
 
 *.pt
+# Ignore all MP4 and image files
+*.mp4
+*.avi
+*.jpg
+*.jpeg
+*.png
+
+# But keep the folders where they are stored
+!input/
+!output/
+
+venv_ufld/

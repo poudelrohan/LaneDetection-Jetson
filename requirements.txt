@@ -1,4 +1,4 @@
-opencv-python
+
 tqdm
 tensorboard
 addict
